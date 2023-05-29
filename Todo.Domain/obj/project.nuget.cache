@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNanNzv9BNI7tOA17/pm1dZ1St7aGY3lJjEo7O3OsBiLR1JogkmJVcs2pvgNUepeK4SEE8j+TrLwgRCebZ+3tA==",
+  "success": true,
+  "projectFilePath": "/home/rodrigo/Documentos/Cursos/dotnet/Todo2/Todo.Domain/Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/rodrigo/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
